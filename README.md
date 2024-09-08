@@ -1,4 +1,4 @@
-### About Me! <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/iDbDicWr95THaVsuIF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/hello-chiroru-iDbDicWr95THaVsuIF">via GIPHY</a></p>
+### Olá, eu sou Vinícius! <img src="img/giphy.webp">
 Me chamo Vinícius Pinheiro e sou estudante de desenvolvimento Front-End. Possuo bacharelado em Cinema e Audiovisual e formação em Design Gráfico, o que me possibilita o manuseio de diversos tipos de mídias durante o ato de programar. Atualmente, busco cada vez mais me aperfeiçoar para me tornar um profissional qualificado para a carreira de tecnologia.
 
 ### Conhecimento!
