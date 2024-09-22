@@ -2,7 +2,7 @@
 
 Me chamo Vinícius Pinheiro e sou estudante de desenvolvimento Front-End. Possuo bacharelado em Cinema e Audiovisual e formação em Design Gráfico, o que me possibilita o manuseio de diversos tipos de mídias durante o ato de programar. 
 
-Atualmente, busco, cada vez mais, me aperfeiçoar para me tornar um profissional qualificado para a carreira de tecnologia.
+Atualmente, busco, cada vez mais, aperfeiçoamento para tornar-me um profissional qualificado para a carreira de tecnologia.
 
 <img src="img/YOczfjtC0H0IMBKhRf.webp" Width="200px">
 
